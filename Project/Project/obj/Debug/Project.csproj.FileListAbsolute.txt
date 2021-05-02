@@ -1,0 +1,12 @@
+E:\C#\Project\Project\bin\Debug\Project.exe.config
+E:\C#\Project\Project\bin\Debug\Project.exe
+E:\C#\Project\Project\bin\Debug\Project.pdb
+E:\C#\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\C#\Project\Project\obj\Debug\Project.FoodDonate.resources
+E:\C#\Project\Project\obj\Debug\Project.Login.resources
+E:\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\C#\Project\Project\obj\Debug\Project.exe
+E:\C#\Project\Project\obj\Debug\Project.pdb
+E:\C#\Project\Project\obj\Debug\Project.Donor.resources
